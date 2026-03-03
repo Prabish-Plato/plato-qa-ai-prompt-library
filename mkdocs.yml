@@ -1,0 +1,8 @@
+site_name: Plato QA AI Prompt Library
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Prompts: prompts/index.md
+  - Governance: governance.md
+  - Contributing: contributing.md

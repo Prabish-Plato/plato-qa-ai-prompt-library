@@ -1,0 +1,1 @@
+print("Prompt validation placeholder - extend as needed")
