@@ -3,6 +3,9 @@ theme:
   name: material
 nav:
   - Home: index.md
-  - Prompts: prompts/index.md
+  - Prompts:
+      - Overview: prompts/index.md
+      - Test Design:
+          - Requirement → Test Cases: prompts/test-design/requirement-to-tests.md
   - Governance: governance.md
   - Contributing: contributing.md
